@@ -1,5 +1,3 @@
-package java_crud_demo;
-
 import java.sql.*;
 
 public class CRUDOperations {
