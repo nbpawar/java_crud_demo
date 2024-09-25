@@ -1,3 +1,2 @@
 # java_crud_demo
-This java project is for the maven automation tool
-
+This java project is for the maven automation tool that will be used.
